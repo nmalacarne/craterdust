@@ -1,0 +1,30 @@
+/*crew section*/
+.crew {
+  background-image: url('../images/about/mission-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.crew header {
+  color: #6b6b6b;
+  font-weight: 100;
+  font-size: 39px;
+  margin-bottom: 50px;
+}
+
+.crew strong {
+  color: #4C4C4C;
+  font-size: 16px;
+}
+
+.crew em {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: #4C4C4C;
+  margin: 0;
+  padding: 0;
+}
+
+.crew a {
+  font-size: 16px;
+}

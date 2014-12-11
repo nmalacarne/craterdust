@@ -1,0 +1,110 @@
+@media(min-width:768px) {
+  .navbar-fixed-top {
+    padding: 25px 0;
+    -webkit-transition: padding .3s;
+    -moz-transition: padding .3s;
+    -o-transition: padding .3s;
+    transition: padding .3s;
+  }
+
+  .navbar-fixed-top .navbar-brand {
+    font-size: 2em;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+  }
+
+  .navbar-fixed-top .navbar-shrink {
+    padding: 0;
+  }
+
+  .navbar-fixed-top .navbar-shrink .navbar-brand {
+    font-size: 1.5em;
+  }
+}
+
+.navbar {
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 200;
+}
+
+.navbar a:focus {
+  outline: 0;
+}
+
+.navbar .navbar-nav {
+  letter-spacing: 1px;
+}
+
+.navbar .navbar-nav li a:focus {
+    outline: 0;
+}
+
+.navbar-default,
+.navbar-inverse {
+  border: 0;
+  background-color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #000;
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+  color: #F36F20;
+  background-color: #fff;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>li>a:focus {
+  color: #000;
+  background-color: #fff;
+}
+
+.navbar-default .navbar-toggle {
+  border: none;
+  margin-top: 17.5px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #000;
+}
+
+.navbar-default .navbar-toggle:hover {
+  background-color: #fff;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar {
+  background-color: #F36F20;
+}
+
+.navbar-default .navbar-toggle:focus {
+  background-color: #fff;
+}
+
+.navbar-default .navbar-toggle:focus .icon-bar {
+  background-color: #000;
+}
+
+.navbar-toggle .icon-bar {
+  position: relative;
+  transition: all .1s;
+  transform: rotate(0deg);
+}
+
+.navbar-toggle:not(.collapsed) .icon-bar:nth-child(2) {
+  top: 6px;
+  transform: rotate(45deg);
+}
+
+.navbar-toggle:not(.collapsed) .icon-bar:nth-child(3) {
+  opacity: 0;
+}
+
+.navbar-toggle:not(.collapsed) .icon-bar:nth-child(4) {
+  top: -6px;
+  transform: rotate(-45deg);
+}

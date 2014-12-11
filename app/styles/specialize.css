@@ -1,0 +1,26 @@
+/*specialize section*/
+.specialize .border {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #C4C4C4;
+}
+
+.specialize header {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  padding-top: 5px;
+}
+
+.specialize p:first-of-type {
+  padding-top: 80px;
+}
+
+.specialize p {
+  color: #949494;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}

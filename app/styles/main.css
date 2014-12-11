@@ -1,0 +1,36 @@
+body {
+  overflow-x: hidden;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+section {
+  padding: 100px 0;
+}
+
+.bar {
+  margin: 25px auto 30px;
+  padding: 0;
+  max-width: 20%;
+  border: 0;
+  border-top: solid 2px;
+  text-align: center;
+  border-color: #F36F21;
+  background-color: #F36F21;
+}
+
+a {
+  color: #F36F20;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a .active {
+  outline: 0;
+  color: #F36F2E;
+  text-decoration: none;
+}
+
+.img-centered {
+    margin: 0 auto;
+}
