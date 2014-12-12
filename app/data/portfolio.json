@@ -34,5 +34,29 @@
   {
     "name": "Crowne Plaza Trophy",
     "thumb": "../../images/portfolio/plaza/crowne-plaza.jpg"
+  },
+  {
+    "name": "Presbyterian Hospital System",
+    "thumb": "../../images/portfolio/pres/pres.png"
+  },
+  {
+    "name": "Chick-Fil-A Leadercast Pitch",
+    "thumb": "../../images/portfolio/chickfila/chickfila.jpg"
+  },
+  {
+    "name": "Mizuno \"A Brillant Run\"",
+    "thumb": "../../images/portfolio/mizuno/brilliantrun.png"
+  },
+  {
+    "name": "S.P.I.D.E.R Pack Concept",
+    "thumb": "../../images/portfolio/spider/spiderpack.png"
+  },
+  {
+    "name": "Concept Art",
+    "thumb": "../../images/portfolio/concept/taylormade.jpg"
+  },
+  {
+    "name": "Cooper Lighting",
+    "thumb": "../../images/portfolio/cooper/cooper1.jpg"
   }
 ]
