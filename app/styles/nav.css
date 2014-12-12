@@ -15,8 +15,9 @@
     transition: all .3s;
   }
 
-  .navbar-fixed-top .navbar-shrink {
+  .navbar-shrink {
     padding: 0;
+
   }
 
   .navbar-fixed-top .navbar-shrink .navbar-brand {
@@ -66,7 +67,7 @@
 
 .navbar-default .navbar-toggle {
   border: none;
-  margin-top: 17.5px;
+  margin-top: 10px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
