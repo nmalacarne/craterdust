@@ -1,0 +1,42 @@
+
+/*portfolio section */
+.portfolio header {
+    color: #4c4c4c;
+    font-size: 48px;
+    font-weight: 100;
+}
+
+.portfolio .portfolio-item:hover a {
+  color: #F36F20;
+}
+
+.portfolio img {
+    filter: none; /* IE6-9 */
+    -webkit-filter: grayscale(0%); /* Chrome 19+ & Safari 6+ */
+    -webkit-transition: all .6s ease; /* Fade to color for Chrome and Safari */
+    -moz-transition: all .6s ease;
+    -o-transition: all .6s ease;
+    -webkit-backface-visibility: hidden; /* Fix for transition flickering */
+}
+
+.portfolio .portfolio-item:hover img {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+}
+
+.portfolio a {
+    text-decoration: none;
+    color: #4c4c4c;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.portfolio .title {
+  padding-bottom: 10px;
+}
+
+@media(min-width:767px) {
+    .portfolio .portfolio-item {
+        margin: 0 0 30px;
+    }
+}
