@@ -1,62 +1,62 @@
 [
   {
     "name": "GLOCK Confidence Campaign",
-    "thumb": "../../images/portfolio/confidence/confidencecamp.jpg"
+    "thumb": "/confidence/confidencecamp.jpg"
   },
   {
     "name": "GLOCK Innovation Video",
-    "thumb": "../../images/portfolio/innovation/innovationvid.jpg"
+    "thumb": "/innovation/innovationvid.jpg"
   },
   {
     "name": "GLOCK 41 Tactical Video",
-    "thumb": "../../images/portfolio/g41/g41tact2.jpg"
+    "thumb": "/g41/g41tact2.jpg"
   },
   {
     "name": "GLOCK Perfection Line",
-    "thumb": "../../images/portfolio/perfection/hangtags1.jpg"
+    "thumb": "/perfection/hangtags1.jpg"
   },
   {
     "name": "GLOCK Lobby Glass Installation",
-    "thumb": "../../images/portfolio/lobby/glocklobbyglass.png"
+    "thumb": "/lobby/glocklobbyglass.png"
   },
   {
     "name": "GLOCK Safety Pledge",
-    "thumb": "../../images/portfolio/safety/safetypledge.png"
+    "thumb": "/safety/safetypledge.png"
   },
   {
     "name": "GLOCK \"Wrong Diner\"",
-    "thumb": "../../images/portfolio/diner/wrongdiner.png"
+    "thumb": "/diner/wrongdiner.png"
   },
   {
     "name": "Ad Council Award Dinner",
-    "thumb": "../../images/portfolio/council/adcouncil.png"
+    "thumb": "/council/adcouncil.png"
   },
   {
     "name": "Crowne Plaza Trophy",
-    "thumb": "../../images/portfolio/plaza/crowne-plaza.jpg"
+    "thumb": "/plaza/crowne-plaza.jpg"
   },
   {
     "name": "Presbyterian Hospital System",
-    "thumb": "../../images/portfolio/pres/pres.png"
+    "thumb": "/pres/pres.png"
   },
   {
     "name": "Chick-Fil-A Leadercast Pitch",
-    "thumb": "../../images/portfolio/chickfila/chickfila.jpg"
+    "thumb": "/chickfila/chickfila.jpg"
   },
   {
     "name": "Mizuno \"A Brillant Run\"",
-    "thumb": "../../images/portfolio/mizuno/brilliantrun.png"
+    "thumb": "/mizuno/brilliantrun.png"
   },
   {
     "name": "S.P.I.D.E.R Pack Concept",
-    "thumb": "../../images/portfolio/spider/spiderpack.png"
+    "thumb": "/spider/spiderpack.png"
   },
   {
     "name": "Concept Art",
-    "thumb": "../../images/portfolio/concept/taylormade.jpg"
+    "thumb": "/concept/taylormade.jpg"
   },
   {
     "name": "Cooper Lighting",
-    "thumb": "../../images/portfolio/cooper/cooper1.jpg"
+    "thumb": "/cooper/cooper1.jpg"
   }
 ]
