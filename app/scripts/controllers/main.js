@@ -8,8 +8,6 @@
  * Controller of the craterdustApp
  */
 angular.module('craterdustApp')
-  .controller('MainCtrl', function ($scope, $http) {
-    $http.get('../../data/portfolio.json').success(function(data) {
-      $scope.portfolio = data;
-    });
+  .controller('MainCtrl', function () {
+    // TODO: app wide logic
   });
