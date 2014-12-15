@@ -12,7 +12,7 @@ angular.module('craterdustApp')
     $scope.portfolio = Portfolio;
 
     $scope.viewItem = function(index) {
-      Portfolio.select(index);
-      console.log(Portfolio.getSelected());
+      $scope.portfolio.select(index);
+      // open full screen modal
     };
   });
