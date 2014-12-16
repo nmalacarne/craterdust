@@ -10,7 +10,7 @@
 angular.module('craterdustApp')
   .service('Portfolio', function ($http) {
     var items = [];
-    var selected = {};
+    var selected = null;
 
     // load portfolio data
     $http.get('../../data/portfolio.json').success(function(data) {
@@ -28,7 +28,7 @@ angular.module('craterdustApp')
         selected = items[index];
       },
       deselect: function() {
-        selected = {};
+        selected = null;
       }
     };
   });

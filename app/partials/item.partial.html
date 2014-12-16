@@ -1,0 +1,29 @@
+<div class="item splash-content text-center">
+  <div class="close">
+    <span class="x" ng-click="$close()">×</span>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <div class="modal-body">
+          <h2>{{name}}</h2>
+
+          <p align="left">
+            {{description}}
+          </p>
+
+          <div ng-repeat="video in videos">
+            <div class="video-container">
+              <iframe ng-src="{{getTrustedSource(video)}}" width="750" height="425" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+
+          <div ng-repeat="image in images">
+            <img ng-src="../images/portfolio/{{image}}">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
