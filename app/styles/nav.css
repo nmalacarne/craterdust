@@ -53,6 +53,10 @@
   color: #000;
 }
 
+.navbar-default .navbar-nav>li>a:hover {
+  color: #F36F20;
+}
+
 .navbar-default .navbar-nav>.active>a:hover {
   color: #F36F20;
   background-color: #fff;
