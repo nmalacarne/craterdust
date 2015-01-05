@@ -3,6 +3,12 @@ body {
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+body.modal-open,
+  .modal-open .navbar-fixed-top,
+  .modal-open .navbar-fixed-bottom {
+  margin-right: 15px;
+}
+
 section {
   padding: 100px 0;
 }
