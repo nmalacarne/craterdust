@@ -10,7 +10,7 @@
     <div ng-repeat="item in portfolio.getItems()">
       <div class="col-sm-4 portfolio-item">
         <a href="" class="portfolio-link" ng-click="viewItem($index)">
-          <img ng-src="{{ '../../images/portfolio/' + item.thumb}}" class="img-responsive" alt="">
+          <img ng-src="{{item.thumb}}" class="img-responsive" alt="">
         </a>
 
         <div class="title text-center">
