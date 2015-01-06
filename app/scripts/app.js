@@ -20,10 +20,15 @@ angular
     'ui.bootstrap'
   ])
   .config(function ($routeProvider) {
+
     $routeProvider
       .when('/', {
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
+      })
+      .when('/item/:id', {
+        templateUrl: 'views/item.html',
+        controller: 'ItemCtrl'
       })
       .otherwise({
         redirectTo: '/'

@@ -21,6 +21,9 @@ angular.module('craterdustApp')
       getItems: function() {
         return items;
       },
+      getItem: function(index) {
+        return items[index];
+      },
       getSelected: function() {
         return selected
       },
