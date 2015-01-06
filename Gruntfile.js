@@ -175,7 +175,7 @@ module.exports = function (grunt) {
         src: [
           '<%= yeoman.dist %>/scripts/{,*/}*.js',
           '<%= yeoman.dist %>/styles/{,*/}*.css',
-          // '<%= yeoman.dist %>/images/{,*/}*.{png,jpg,jpeg,gif,webp,svg}',
+          '<%= yeoman.dist %>/images/{,*/}*.{png,jpg,jpeg,gif,webp,svg}',
           '<%= yeoman.dist %>/styles/fonts/*'
         ]
       }
@@ -206,7 +206,13 @@ module.exports = function (grunt) {
       css: ['<%= yeoman.dist %>/styles/{,*/}*.css'],
       json: ['<%= yeoman.dist %>/data/{,*/}*.json'],
       options: {
-        assetsDirs: ['<%= yeoman.dist %>','<%= yeoman.dist %>/images']
+        assetsDirs: ['<%= yeoman.dist %>','<%= yeoman.dist %>/images'],
+        patterns: {
+          json: [
+            [/(images\/.*?\.(?:gif|jpeg|jpg|png|webp|svg))/gm,
+             'Update arrays of image paths to revved images']
+          ]
+        }
       }
     },
 
