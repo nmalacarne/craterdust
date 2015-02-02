@@ -17,11 +17,11 @@
 
   .navbar-shrink {
     padding: 0;
-
   }
 
   .navbar-fixed-top .navbar-shrink .navbar-brand {
     font-size: 1.5em;
+    background: rgba(0,0,0,0.3) !important;
   }
 }
 
@@ -40,13 +40,13 @@
 }
 
 .navbar .navbar-nav li a:focus {
-    outline: 0;
+  outline: 0;
 }
 
 .navbar-default,
 .navbar-inverse {
   border: 0;
-  background-color: #fff;
+  background-color: #FFF;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -59,14 +59,14 @@
 
 .navbar-default .navbar-nav>.active>a:hover {
   color: #F36F20;
-  background-color: #fff;
+  background-color: inherit;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>li>a:focus {
   color: #F36F20;
-  background-color: #fff;
+  background-color: inherit;
 }
 
 .navbar-default .navbar-toggle {

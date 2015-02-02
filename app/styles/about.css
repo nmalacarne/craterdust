@@ -1,8 +1,6 @@
 /*about section*/
 .about {
-  padding-top: 12%;
-  background-image: url('../images/mission-bg.jpg');
-  background-repeat: no-repeat;
+  background: url('../images/mission-bg.jpg') no-repeat;
   background-size: cover;
 }
 
