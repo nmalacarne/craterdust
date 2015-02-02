@@ -25,11 +25,12 @@
     <link rel="stylesheet" href="styles/splash.css">
     <!-- endbuild -->
   </head>
-  <body id="page-top" ng-app="craterdustApp" ng-controller="MainCtrl">
+  <body id="page-top" ng-app="craterdustApp">
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
+    <!--view data here-->
     <div ng-view=""></div>
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
@@ -62,17 +63,14 @@
     <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
     <script src="bower_components/angular-touch/angular-touch.js"></script>
     <script src="bower_components/angular-scroll/angular-scroll.js"></script>
-    <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
         <!-- build:js({.tmp,app}) scripts/scripts.js -->
         <script src="scripts/app.js"></script>
-        <script src="scripts/controllers/main.js"></script>
         <script src="scripts/directives/animatednav.js"></script>
         <script src="scripts/controllers/portfolio.js"></script>
         <script src="scripts/services/portfolio.js"></script>
-        <script src="scripts/services/splash.js"></script>
         <script src="scripts/controllers/item.js"></script>
         <!-- endbuild -->
 </body>
