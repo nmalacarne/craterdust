@@ -3,21 +3,31 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body">
+          <div>
             <h2>{{item.name}}</h2>
 
-            <p align="left">
-              {{item.description}}
-            </p>
+            <div ng-repeat="section in item.sections">
+              <h3 align="left">{{section.title}}</h3>
 
-            <div ng-repeat="video in item.videos">
-              <div class="video-container">
-                <iframe ng-src="{{getTrustedSource(video)}}" width="750" height="425" frameborder="0" allowfullscreen></iframe>
+              <p align="left">
+                {{section.description}}
+              </p>
+
+              <div ng-repeat="video in section.videos">
+                <div class="video-container">
+                  <iframe ng-src="{{getTrustedSource(video)}}" width="750" height="425" frameborder="0" allowfullscreen></iframe>
+                </div>
               </div>
-            </div>
 
-            <div ng-repeat="image in item.images">
-              <img ng-src="{{image}}">
+              <div ng-repeat="image in section.images">
+                  <div class="row">
+                    <div ng-repeat="source in image.source">
+                      <div class="{{image.style}}">
+                        <img ng-src="{{source}}">
+                      </div>
+                    </div>
+                  </div>
+              </div>
             </div>
           </div>
         </div>
