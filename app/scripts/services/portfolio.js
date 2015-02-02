@@ -18,9 +18,6 @@ angular.module('craterdustApp')
       getItem: function(index) {
         return items[index];
       },
-      getSelected: function() {
-        return selected
-      },
       load: function() {
         $http.get('../../data/portfolio.json').success(function(data) {
           items = data;
