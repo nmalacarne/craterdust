@@ -33,4 +33,12 @@ angular
       .otherwise({
         redirectTo: '/'
       });
+  })
+  .run(function($rootScope, $sce, Portfolio) {
+    $rootScope.getTrustedSource = function(src) {
+      return $sce.trustAsResourceUrl(src);
+    }
+
+    // load portfolio data
+    Portfolio.load();
   });
