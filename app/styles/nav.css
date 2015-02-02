@@ -78,7 +78,7 @@
 }
 
 .navbar-default .navbar-toggle:hover {
-  background-color: #fff;
+  background-color: inherit;
 }
 
 .navbar-default .navbar-toggle:hover .icon-bar {
@@ -86,7 +86,7 @@
 }
 
 .navbar-default .navbar-toggle:focus {
-  background-color: #fff;
+  background-color: inherit;
 }
 
 .navbar-default .navbar-toggle:focus .icon-bar {
