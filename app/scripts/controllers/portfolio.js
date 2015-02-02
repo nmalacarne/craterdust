@@ -8,20 +8,6 @@
  * Controller of the craterdustApp
  */
 angular.module('craterdustApp')
-  .controller('PortfolioCtrl', function ($scope, $sce, Portfolio, Splash) {
-
+  .controller('PortfolioCtrl', function ($scope, $sce, Portfolio) {
     $scope.portfolio = Portfolio;
-
-    $scope.viewItem = function(index) {
-
-      var modal = null;
-
-      $scope.portfolio.select(index);
-
-      Splash.open(
-        $scope.portfolio.getSelected()
-      ).result.then(function() {
-        $scope.portfolio.deselect();
-      });
-    };
   });
