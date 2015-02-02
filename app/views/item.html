@@ -1,1 +1,27 @@
-<section ng-include="'../partials/item.partial.html'" id="item" class="item"></section>
+<div ng-show="item">
+  <div class="item text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body">
+            <h2>{{item.name}}</h2>
+
+            <p align="left">
+              {{item.description}}
+            </p>
+
+            <div ng-repeat="video in item.videos">
+              <div class="video-container">
+                <iframe ng-src="{{getTrustedSource(video)}}" width="750" height="425" frameborder="0" allowfullscreen></iframe>
+              </div>
+            </div>
+
+            <div ng-repeat="image in item.images">
+              <img ng-src="{{image}}">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
