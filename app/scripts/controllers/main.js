@@ -8,8 +8,6 @@
  * Controller of the craterdustApp
  */
 angular.module('craterdustApp')
-  .controller('MainCtrl', function ($rootScope, $sce) {
-    $rootScope.getTrustedSource = function(src) {
-      return $sce.trustAsResourceUrl(src);
-    }
+  .controller('MainCtrl', function () {
+    // TODO: logic for main
   });
