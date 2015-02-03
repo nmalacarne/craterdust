@@ -16,6 +16,11 @@
         <div class="title text-center">
           <a href="">{{item.name}}</a>
         </div>
+        <div class="text-center">
+          <i ng-repeat="tag in item.tags" class="portfolio-tag">
+            {{tag}}{{!$last ? ', ' : ''}}
+          </i>
+        </div>
       </div>
     </div>
   </div>

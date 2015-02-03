@@ -1,9 +1,13 @@
 
 /*portfolio section */
 .portfolio header {
-    color: #4c4c4c;
-    font-size: 48px;
-    font-weight: 100;
+  color: #4c4c4c;
+  font-size: 48px;
+  font-weight: 100;
+}
+
+.portfolio-item {
+  min-height: 325px;
 }
 
 .portfolio .portfolio-item:hover a {
@@ -17,6 +21,7 @@
     -moz-transition: all .6s ease;
     -o-transition: all .6s ease;
     -webkit-backface-visibility: hidden; /* Fix for transition flickering */
+  padding-bottom: 10px;
 }
 
 .portfolio .portfolio-item:hover img {
@@ -31,8 +36,9 @@
     font-weight: bold;
 }
 
-.portfolio .title {
-  padding-bottom: 10px;
+.portfolio-tag {
+  display: inline;
+  font-size: 12px;
 }
 
 @media(min-width:767px) {
