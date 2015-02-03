@@ -1,8 +1,11 @@
 /*crew section*/
 .crew {
-  background-image: url('../images/mission-bg.jpg');
-  background-repeat: no-repeat;
+  background: url('../images/mission-bg.jpg') no-repeat;
   background-size: cover;
+}
+
+.crew-info {
+  min-height: 150px;
 }
 
 .crew header {
