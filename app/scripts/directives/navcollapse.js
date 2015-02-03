@@ -7,12 +7,15 @@
  * # navCollapse
  */
 angular.module('craterdustApp')
-  .directive('navCollapse', function () {
+  .directive('navCollapse', function ($window) {
     return {
-      template: '<div></div>',
-      restrict: 'E',
+      restrict: 'A',
       link: function postLink(scope, element, attrs) {
-        element.text('this is the navCollapse directive');
+        element.on('click', function(){
+          if ($window.innerWidth <= 767) {
+            angular.element('.navbar-toggle').trigger('click');
+          }
+        });
       }
     };
   });
