@@ -21,7 +21,7 @@ angular
   .config(function ($routeProvider) {
 
     $routeProvider
-      .when('/', {
+      .when('/:scrollId?', {
         templateUrl: 'views/main.html'
       })
       .when('/item/:id', {
