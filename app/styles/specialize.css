@@ -1,8 +1,10 @@
 /*specialize section*/
+.specialize * {
+  display: block;
+}
+
 .specialize .border {
-  border-style: solid;
-  border-width: 1px;
-  border-color: #C4C4C4;
+  border: 1px solid #C4C4C4;
 }
 
 .specialize header {
@@ -12,15 +14,17 @@
   padding-top: 5px;
 }
 
-.specialize p:first-of-type {
+.specialize img {
+  margin: 0 auto;
+}
+
+.specialize span:first-of-type {
   padding-top: 80px;
 }
 
-.specialize p {
+.specialize span {
   color: #949494;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
   font-weight: 300;
-  margin: 0;
-  padding: 0;
 }
