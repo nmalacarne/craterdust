@@ -347,7 +347,11 @@
     ],
     "sections": [
       {
+        "title": "Mizuno “Observe”",
         "description": "This video was 1 of 2 web videos produced for Mizuno for the launch of their new WaveRider 15 shoe. The campaign revolved around the hypothetical idea – If Einstein Ran. The first video as seen below showed Einstein making his observations.",
+        "videos": [
+          "https://www.youtube.com/embed/n3HYRCi8Fgw"
+        ],
         "images": [
           {
             "sources": [
@@ -364,6 +368,9 @@
       {
         "title": "Mizuno “Engineer”",
         "description": "This spot picks up where the first one left off. Einstein is back in his lab putting it all together and then he has his eureka moment.",
+        "videos": [
+          "https://www.youtube.com/embed/yBlMDdpX3yk"
+        ],
         "images": [
           {
             "sources": [
