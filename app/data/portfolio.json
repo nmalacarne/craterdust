@@ -454,6 +454,22 @@
   },
   {
     "name": "Cooper Lighting",
-    "thumb": "/images/cooper/cooper1.jpg"
+    "thumb": "/images/cooper/cooper1.jpg",
+    "sections": [
+      {
+        "description": "CraterDust was asked by Ogden Design to collaborate on a new in-store lighting display for Cooper Lighting’s HALO LED series. The primary objective was to show the functionality and ease of installation for the new low-profile SLD Series lights. CraterDust provided several rounds of ideation sketches and renderings that explored forms and materials that would allow consumers to interact with the display while experiencing the light and learning about installation requirements. These sketches were then created as scale models by Ogden Design and the prototypes were presented to Cooper Lighting. Quickly approved, the concept moved into production and the in-store lighting displays are currently shipping to high-end lighting stores throughout the US.",
+        "images": [
+          {
+            "sources": [
+              "/images/cooper/cooper1.jpg",
+              "/images/cooper/light-v1.jpg",
+              "/images/cooper/light-v2.jpg",
+              "/images/cooper/sketch-final.jpg",
+              "/images/cooper/ideation-sketch.jpg"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
