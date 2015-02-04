@@ -21,15 +21,13 @@
   border: solid 1px #FFF;
 }
 
-@media(min-width:1200px) {
-  .about span {
-    margin-right: -50px;
-  }
-}
-
 @media(min-width:992px) {
   .about-header {
     padding: 35px;
+  }
+
+  .about span {
+    margin-right: -125px;
   }
 }
 

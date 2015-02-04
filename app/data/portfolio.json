@@ -17,18 +17,14 @@
         "description": "In 2014 CraterDust was approached about developing a survival-based social activation that would span the course of several months and cater to survivalists and outdoorsmen. We were able to work with Glock to conceptualize and develop Scenario X and ultimately to ensure this new activation reached its full potential. We were tasked with  creating all assets for use on social media including logo design, 10 unique scenarios and accompanying line art, as well as a series of videos to run alongside each scenario."
       },
       {
-        "description": "Above all else we wanted to ensure that Scenario X was an engaging experience that would captivate the imagination of our audience while also broadening their survival acumen. In each scenario the reader was charged with choosing one item that would give them the most confidence to escape the imminent threats. The reader’s choice was then followed by a video of survival expert and Navy SEAL “Tracker” Dan giving the audience his choice of item and providing insight on each specific scenario. In the end Scenario X was met with success and sparked discussions across the web while tying in to the over-arching theme of GLOCK Confidence.",
         "images": [
           {
             "sources": [
               "/images/scenx/scenx-logos.png"
             ]
-          }
-        ]
-      },
-      {
-        "images": [
+          },
           {
+
             "sources": [
               "/images/scenx/hurricane-web.jpg",
               "/images/scenx/rainforest-web.jpg",
@@ -37,6 +33,12 @@
             "style": "col-md-4"
           }
         ]
+      },
+      {
+        "description": "Above all else we wanted to ensure that Scenario X was an engaging experience that would captivate the imagination of our audience while also broadening their survival acumen. In each scenario the reader was charged with choosing one item that would give them the most confidence to escape the imminent threats. The reader’s choice was then followed by a video of survival expert and Navy SEAL “Tracker” Dan giving the audience his choice of item and providing insight on each specific scenario. In the end Scenario X was met with success and sparked discussions across the web while tying in to the over-arching theme of GLOCK Confidence.",
+        "videos": [
+          "https://www.youtube.com/embed/kq5VXB7pow4"
+        ]
       }
     ]
   },
@@ -44,7 +46,7 @@
     "name": "GLOCK Confidence Campaign",
     "thumb": "/images/confidence/confidencecamp.jpg",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -126,7 +128,7 @@
     "name": "GLOCK Innovation Video",
     "thumb": "/images/innovation/innovationvid.jpg",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -141,7 +143,7 @@
     "name": "GLOCK 41 Tactical Video",
     "thumb": "/images/g41/g41tact2.jpg",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -169,7 +171,7 @@
     "name": "GLOCK Perfection Line",
     "thumb": "/images/perfection/hangtags1.jpg",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -189,7 +191,7 @@
     "name": "GLOCK Lobby Glass Installation",
     "thumb": "/images/lobby/glocklobbyglass.png",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -212,7 +214,7 @@
     "name": "GLOCK Safety Pledge",
     "thumb": "/images/safety/safetypledge.png",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -235,7 +237,7 @@
     "name": "GLOCK \"Wrong Diner\"",
     "thumb": "/images/diner/wrongdiner.png",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -270,7 +272,7 @@
     "name": "Ad Council Award Dinner",
     "thumb": "/images/council/adcouncil.png",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -290,7 +292,7 @@
     "name": "Crowne Plaza Trophy",
     "thumb": "/images/plaza/crowne-plaza.jpg",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -311,7 +313,7 @@
     "name": "Presbyterian Hospital System",
     "thumb": "/images/pres/pres.png",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -332,7 +334,7 @@
     "name": "Chick-Fil-A Leadercast Pitch",
     "thumb": "/images/chickfila/chickfila.jpg",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -347,7 +349,7 @@
     "name": "Mizuno “A Brillant Run”",
     "thumb": "/images/mizuno/brilliantrun.png",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -395,7 +397,7 @@
     "name": "S.P.I.D.E.R Pack Concept",
     "thumb": "/images/spider/spiderpack.png",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -418,7 +420,7 @@
     "name": "Concept Art/Renderings",
     "thumb": "/images/concept/taylormade.jpg",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
@@ -438,7 +440,7 @@
     "name": "AT&T Classic Kiosks",
     "thumb": "/images/kiosks/kiosk-thumb.jpg",
     "tags": [
-      "Design", "Advertising", "Art Direction", "Copywriting"
+
     ],
     "sections": [
       {
