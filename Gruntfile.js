@@ -361,6 +361,21 @@ module.exports = function (grunt) {
         configFile: 'test/karma.conf.js',
         singleRun: true
       }
+    },
+
+    buildcontrol: {
+      options: {
+        dir: 'dist/',
+        commit: true,
+        push: true,
+        message: 'Built %sourceName% from commit %sourceCommit% on branch %sourceBranch%'
+      },
+      cdust: {
+        options: {
+          remote: 'ssh://cdust@192.185.4.32/git/craterdust.git',
+          branch: 'master'
+        }
+      }
     }
   });
 
