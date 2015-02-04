@@ -1,5 +1,42 @@
 [
   {
+    "name": "Scenario X",
+    "thumb": "http://placehold.it/800x600",
+    "tags": [],
+    "sections": [
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/scenx/scenx-header2.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "description": "[copy]",
+        "images": [
+          {
+            "sources": [
+              "/images/scenx/scenx-logos.png"
+            ]
+          }
+        ]
+      },
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/scenx/hurricane-web.jpg",
+              "/images/scenx/rainforest-web.jpg",
+              "/images/scenx/earthquake-web.jpg"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "GLOCK Confidence Campaign",
     "thumb": "/images/confidence/confidencecamp.jpg",
     "tags": [
@@ -10,7 +47,7 @@
         "description": "2013 was a record-setting year for GLOCK as they successfully shipped over a million pistols from their North American HQ in Smyrna, GA. With the upcoming launch of two new pistol models in January 2014, GLOCK was looking to refresh their advertising campaign creative while still maintaining the “Confidence” messaging they have become synonymous with. CraterDust proposed a new campaign tagline that would leverage the previous years messaging while reaching out to the ever-growing numbers of concealed-carry pistol owners across the country. “Confidence. It’s What You Carry.” speaks to both the literal translation of what one carries on their person as well as to the way people carry themselves. The updated tagline allowed GLOCK to engage consumers on multiple levels and became the basis for the 2014 advertising campaign.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/confidence/confidence.jpg"
             ]
           }
@@ -21,7 +58,7 @@
         "description": "As GLOCK has a long-standing relationship with most US gun enthusiast magazines and publications, it was no exception that 2014 would see many print ads run in a variety of sizes and formats.  CraterDust worked with GLOCK and its partners to frame up the 2014 quarterly ad cycles and placements.  We then proposed which key ads would make the biggest impact for each quarter based on the consumer outreach.  CraterDust oversees and produces all aspects of the ads from initial sketch and copy to photo-shoot art direction and production of final art.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/confidence/swat-modernshooter.jpg",
               "/images/confidence/female-full.jpg",
               "/images/confidence/military-ops.jpg"
@@ -35,12 +72,12 @@
         "description": "The “Confidence” campaign continues through digital mediums via the GLOCK website and social media platforms such as Facebook and Twitter. While refreshing the current US website with new campaign imagery and design, we also provided creative direction for social activations to their millions of online fans.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/confidence/screencapture.png"
             ]
           },
           {
-            "source": [
+            "sources": [
               "/images/confidence/caliber-size-social.jpg",
               "/images/confidence/confidenceis0915.jpg",
               "/images/confidence/rangetime.jpg"
@@ -54,12 +91,12 @@
         "description": "Created for consumer facing events, direct sales and fan engagement, GLOCK collateral such as patches, stickers and other takeaways were designed to bear the bold confidence messaging and stark brand-based imagery.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/confidence/patches.jpg"
             ]
           },
           {
-            "source": [
+            "sources": [
               "/images/confidence/nrapatch.png",
               "/images/confidence/oppatch.png",
               "/images/confidence/confpatch.png"
@@ -73,7 +110,7 @@
         "description": "GLOCK reached out to us to revamp their e-store with new designs for all their gear. Graphics were created by CraterDust to speak to the company’s innovation and superior engineering while engaging their loyal audience of enthusiasts.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/confidence/glockshirts.jpg"
             ]
           }
@@ -110,7 +147,7 @@
         ],
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/g41/g41flow1.jpg",
               "/images/g41/g41flow2.jpg",
               "/images/g41/g41flow3.jpg",
@@ -135,7 +172,7 @@
         "description": "We worked with GLOCK to create the identity for a high-end apparel line for firearm enthusiasts and professionals called The Perfection Line. The look and feel was to reflect the quality of materials and understated design approach as it relates to the GLOCK brand. The Perfection Line was brought to our team where we provided creative direction, package design and branding to launch the new line.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/perfection/hangtags1.jpg",
               "/images/perfection/perfectionline.jpg"
             ]
@@ -158,7 +195,7 @@
         ],
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/lobby/lobbyPanelA.png",
               "/images/lobby/lobbyPanelB.png"
             ]
@@ -181,7 +218,7 @@
         ],
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/safety/glocksafetypledge.png",
               "/images/safety/safetypledgebadge.png"
             ]
@@ -204,7 +241,7 @@
         ],
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/diner/flow1.jpg",
               "/images/diner/flow2.jpg",
               "/images/diner/flow3.jpg",
@@ -236,7 +273,7 @@
         "description": "CraterDust had the opportunity to work with Ron Montgomery & Associates (RMA) to produce graphics for the 2013 Ad Council Public Service Award Dinner held at The Waldorf Astoria Hotel in New York City.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/council/dinner.jpg",
               "/images/council/adcouncil.png"
             ]
@@ -256,7 +293,7 @@
         "description": "CraterDust worked with Ogden Design to create this one-of-a-kind custom trophy for the Champion of the annual Crowne Plaza Invitational at Colonial Pro/Am Golf Tournament. We began with thumbnail sketches that explored similar shapes found in the sport of golf. Once we nailed down the sweeping form language, we moved to orthographic views and established material finishes. A foam scale-model was then made that enabled us to check the proportions and view the trophy from multiple angles. After presenting the concept to Crowne Plaza, the model was green-lit and went to custom fabricators for production. Varying thicknesses of brushed aluminum were shaped and cut using CNC water-jets while a custom glass-blown golf ball was created by world famous Chihuly studios. Assembly and finishing were completed with a hand-made, polished maple base. The trophy was prominently displayed at various Crowne Plaza golf events leading up to the culmination of the tournament where it was awarded to the champion.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/plaza/trophy.jpg",
               "/images/plaza/ortho.jpg",
               "/images/plaza/sketch.jpg"
@@ -277,7 +314,7 @@
         "description": "Ogden Design, Hannah Interiors and CraterDust worked together to offer a fresh new approach to the interiors of Presbyterian Hospital Systems area clinics. Beginning with site surveys to several locations, photos and measurements were taken along with notes leading to a thorough understanding of the clinics’ current layouts and efficiency with regard to administering patient care. Initial plan views offered led to alternative traffic flow solutions that would increase workflow and patient treatment efficiency. With increased functionality and best use of space now solved, the focus then turned to a new lighter interior with updated colors, flooring and furniture. Presentation renderings and swatch boards of several local area hospitals were then presented to the hospital’s Board of Directors. The presentation got Presbyterian staff very excited and the hospital is currently moving forward while discussing planning and funding.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/pres/pres.png",
               "/images/pres/presrendering.jpg",
               "/images/pres/presrendering2.jpg"
@@ -313,7 +350,7 @@
         "description": "This video was 1 of 2 web videos produced for Mizuno for the launch of their new WaveRider 15 shoe. The campaign revolved around the hypothetical idea – If Einstein Ran. The first video as seen below showed Einstein making his observations.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/mizuno/flow1.jpg",
               "/images/mizuno/flow2.jpg",
               "/images/mizuno/flow3.jpg",
@@ -329,7 +366,7 @@
         "description": "This spot picks up where the first one left off. Einstein is back in his lab putting it all together and then he has his eureka moment.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/mizuno/flow7.jpg",
               "/images/mizuno/flow8.jpg",
               "/images/mizuno/flow9.jpg",
@@ -354,7 +391,7 @@
         "description": "This concept was developed for the ‘72 hour survival challenge’ that was featured on idsketching.com a few years ago. It was an online competition open to all U.S. designers. After a fair amount of time researching emerging technologies and creating countless ideation sketches, this is the pack that was presented. The Wacom industrial design team served as the panel of judges that ultimately awarded the S.P.I.D.E.R. Pack first place and a new Wacom Intuos Graphire4 tablet.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/spider/flow1.jpg",
               "/images/spider/flow2.jpg",
               "/images/spider/flow3.jpg",
@@ -377,7 +414,7 @@
         "description": "Unlike many studios who depend on freelance illustrators, we handle all of our rendering and illustration needs in-house. We have supplied countless presentation renderings and design sketches to clients as well as marketing departments, design firms and architects. Whether you’re looking to have your concept visualized for your next pitch or need a robust design sketch that addresses real needs, we offer rendering capabilities in a variety of styles from analog or digital hand-sketches to fully developed CAD models. We also offer character design, storyboards and key frames for animatics and broadcasts.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/concept/taylormade.jpg",
               "/images/concept/flow1.jpg"
             ]
@@ -397,7 +434,7 @@
         "description": "Working with Ogden Design, CraterDust provided conceptual sketches exploring both form and functionality for kiosks AT&T would utilize at their many events. These one-off kiosks needed to speak to the progressive nature of AT&T’s emerging technologies while also being easy to set up and breakdown. One kiosk would highlight and feature new technology and another kiosk would be utilized as a DJ booth for live onsite radio broadcasts. By creating a form language that was shared by both kiosks, the two pieces each provided optimal functionality catered to its purpose while sporting a unified look and feel.",
         "images": [
           {
-            "source": [
+            "sources": [
               "/images/kiosks/attfullroom.jpg",
               "/images/kiosks/kiosk-thumb.jpg",
               "/images/kiosks/att790.jpg",
@@ -407,5 +444,9 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Cooper Lighting",
+    "thumb": "/images/cooper/cooper1.jpg"
   }
 ]
