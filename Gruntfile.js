@@ -372,7 +372,7 @@ module.exports = function (grunt) {
       },
       cdust: {
         options: {
-          remote: 'ssh://cdust@192.185.4.32/git/craterdust.git',
+          remote: 'ssh://cdust:f.vpX3zAndn2@craterdust.com/git/craterdust.git',
           branch: 'master'
         }
       }
@@ -423,6 +423,11 @@ module.exports = function (grunt) {
     'filerev',
     'usemin',
     'htmlmin'
+  ]);
+
+  grunt.registerTask('deploy', [
+    'build',
+    'buildcontrol:cdust'
   ]);
 
   grunt.registerTask('default', [
