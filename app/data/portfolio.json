@@ -33,7 +33,8 @@
               "/images/scenx/hurricane-web.jpg",
               "/images/scenx/rainforest-web.jpg",
               "/images/scenx/earthquake-web.jpg"
-            ]
+            ],
+            "style": "col-md-4"
           }
         ]
       }
