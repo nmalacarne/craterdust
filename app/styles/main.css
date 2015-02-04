@@ -17,7 +17,7 @@ p {
   max-width: 20%;
   text-align: center;
   border: 0 #F36F21;
-  border-top: 2px solid;
+  border-top: 1px solid;
   background-color: #F36F21;
 }
 
@@ -32,6 +32,11 @@ a .active {
   outline: 0;
   color: #F36F2E;
   text-decoration: none;
+}
+
+.browsehappy {
+  padding-top: 125px;
+  text-align: center;
 }
 
 .return-to-top {
