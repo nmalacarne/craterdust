@@ -372,7 +372,7 @@ module.exports = function (grunt) {
       },
       cdust: {
         options: {
-          remote: 'ssh://cdust:f.vpX3zAndn2@craterdust.com/git/craterdust.git',
+          remote: 'cdust@craterdust.com/git/craterdust.git',
           branch: 'master'
         }
       }
