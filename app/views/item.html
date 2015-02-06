@@ -72,7 +72,7 @@
                   <div class="row">
                     <div ng-repeat="source in image.sources">
                       <div class="{{image.style}}">
-                        <img ng-src="{{source}}">
+                        <img ng-click="zoom(source)" ng-src="{{source}}">
                       </div>
                     </div>
                   </div>
