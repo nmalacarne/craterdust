@@ -14,7 +14,7 @@ angular.module('craterdustApp')
 
     $scope.zoom = function (src) {
       $.fancybox.open({
-        content: '<img src="' + src + '">',
+        content: '<img class="img-responsive" src="' + src + '">',
         type: 'html'
       });
     };

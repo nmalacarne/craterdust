@@ -30,7 +30,7 @@
               "/images/scenx/rainforest-web.jpg",
               "/images/scenx/earthquake-web.jpg"
             ],
-            "style": "col-md-4"
+            "style": "col-xs-4"
           }
         ]
       },
@@ -89,7 +89,7 @@
               "/images/confidence/female-full.jpg",
               "/images/confidence/military-ops.jpg"
             ],
-            "style": "col-md-4"
+            "style": "col-xs-4"
           }
         ]
       },
@@ -108,7 +108,7 @@
               "/images/confidence/confidenceis0915.jpg",
               "/images/confidence/rangetime.jpg"
             ],
-            "style": "col-md-4"
+            "style": "col-xs-4"
           }
         ]
       },
@@ -127,7 +127,7 @@
               "/images/confidence/oppatch.png",
               "/images/confidence/confpatch.png"
             ],
-            "style": "col-md-4"
+            "style": "col-xs-4"
           }
         ]
       },
