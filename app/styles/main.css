@@ -79,3 +79,7 @@ a .active {
   color: #fff;
   top: 5px;
 }
+
+#fancybox-lock:hover {
+  cursor: zoom-out;
+}
