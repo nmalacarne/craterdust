@@ -43,6 +43,26 @@
     ]
   },
   {
+    "name": "Ad Council Award Dinner",
+    "thumb": "/images/council/adcouncil.png",
+    "tags": [
+
+    ],
+    "sections": [
+      {
+        "description": "CraterDust had the opportunity to work with Ron Montgomery & Associates (RMA) to produce graphics for the 2013 Ad Council Public Service Award Dinner held at The Waldorf Astoria Hotel in New York City.",
+        "images": [
+          {
+            "sources": [
+              "/images/council/dinner.jpg",
+              "/images/council/adcouncil.png"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "GLOCK Confidence Campaign",
     "thumb": "/images/confidence/confidencecamp.jpg",
     "tags": [
@@ -125,6 +145,21 @@
     ]
   },
   {
+    "name": "Chick-Fil-A Leadercast Pitch",
+    "thumb": "/images/chickfila/chickfila.jpg",
+    "tags": [
+
+    ],
+    "sections": [
+      {
+        "description": "GiANT Impact contacted CraterDust in need of a “quick sketch artist” to create renderings for a video they were producing for one of their proposed Leadercast events in Atlanta. Working with their team to provide the approach and art direction for the video, CraterDust worked at GiANT and on camera cranked out the drawings based on supplied content and reference. The video was shot and produced by Blue Carousel Productions and was well received by Chick-fil-A as a refreshing approach to otherwise typical pitch presentations.",
+        "videos": [
+          "http://player.vimeo.com/video/105762821?wmode=opaque"
+        ]
+      }
+    ]
+  },
+  {
     "name": "GLOCK Innovation Video",
     "thumb": "/images/innovation/innovationvid.jpg",
     "tags": [
@@ -135,6 +170,26 @@
         "description": "CraterDust worked with Buford-based production company Modest to create this launch video for the SHOT Show 2014 GLOCK Party. We wrote the treatment, supplied direction and design for this short piece to capture the brand’s heritage of innovation from the original GLOCK 17 pistol to the all new GLOCK 41 Gen4 and GLOCK 42. To top it off, this video garnered CraterDust 3 silver and 5 bronze Telly Awards.",
         "videos": [
           "http://player.vimeo.com/video/83629200?wmode=opaque"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Concept Art/Renderings",
+    "thumb": "/images/concept/taylormade.jpg",
+    "tags": [
+
+    ],
+    "sections": [
+      {
+        "description": "Unlike many studios who depend on freelance illustrators, we handle all of our rendering and illustration needs in-house. We have supplied countless presentation renderings and design sketches to clients as well as marketing departments, design firms and architects. Whether you’re looking to have your concept visualized for your next pitch or need a robust design sketch that addresses real needs, we offer rendering capabilities in a variety of styles from analog or digital hand-sketches to fully developed CAD models. We also offer character design, storyboards and key frames for animatics and broadcasts.",
+        "images": [
+          {
+            "sources": [
+              "/images/concept/taylormade.jpg",
+              "/images/concept/flow1.jpg"
+            ]
+          }
         ]
       }
     ]
@@ -168,19 +223,20 @@
     ]
   },
   {
-    "name": "GLOCK Perfection Line",
-    "thumb": "/images/perfection/hangtags1.jpg",
+    "name": "Presbyterian Hospital System",
+    "thumb": "/images/pres/pres.png",
     "tags": [
 
     ],
     "sections": [
       {
-        "description": "We worked with GLOCK to create the identity for a high-end apparel line for firearm enthusiasts and professionals called The Perfection Line. The look and feel was to reflect the quality of materials and understated design approach as it relates to the GLOCK brand. The Perfection Line was brought to our team where we provided creative direction, package design and branding to launch the new line.",
+        "description": "Ogden Design, Hannah Interiors and CraterDust worked together to offer a fresh new approach to the interiors of Presbyterian Hospital Systems area clinics. Beginning with site surveys to several locations, photos and measurements were taken along with notes leading to a thorough understanding of the clinics’ current layouts and efficiency with regard to administering patient care. Initial plan views offered led to alternative traffic flow solutions that would increase workflow and patient treatment efficiency. With increased functionality and best use of space now solved, the focus then turned to a new lighter interior with updated colors, flooring and furniture. Presentation renderings and swatch boards of several local area hospitals were then presented to the hospital’s Board of Directors. The presentation got Presbyterian staff very excited and the hospital is currently moving forward while discussing planning and funding.",
         "images": [
           {
             "sources": [
-              "/images/perfection/hangtags1.jpg",
-              "/images/perfection/perfectionline.jpg"
+              "/images/pres/pres.png",
+              "/images/pres/presrendering.jpg",
+              "/images/pres/presrendering2.jpg"
             ]
           }
         ]
@@ -211,136 +267,23 @@
     ]
   },
   {
-    "name": "GLOCK Safety Pledge",
-    "thumb": "/images/safety/safetypledge.png",
+    "name": "AT&T Classic Kiosks",
+    "thumb": "/images/kiosks/kiosk-thumb.jpg",
     "tags": [
 
     ],
     "sections": [
       {
-        "description": "We had the opportunity to provide the creative for the GLOCK “Safety Pledge” landing page, social assets and posts for “National Safety Month” in June 2014. With GLOCK working in conjunction with Project Child Safe and NSSF, we supported the promotion with art direction as it engaged consumers across the United States to spread the word about gun safety.",
-        "videos": [
-          "http://www.youtube.com/embed/CC7bs3ed3-w?wmode=opaque"
-        ],
+        "description": "Working with Ogden Design, CraterDust provided conceptual sketches exploring both form and functionality for kiosks AT&T would utilize at their many events. These one-off kiosks needed to speak to the progressive nature of AT&T’s emerging technologies while also being easy to set up and breakdown. One kiosk would highlight and feature new technology and another kiosk would be utilized as a DJ booth for live onsite radio broadcasts. By creating a form language that was shared by both kiosks, the two pieces each provided optimal functionality catered to its purpose while sporting a unified look and feel.",
         "images": [
           {
             "sources": [
-              "/images/safety/glocksafetypledge.png",
-              "/images/safety/safetypledgebadge.png"
+              "/images/kiosks/attfullroom.jpg",
+              "/images/kiosks/kiosk-thumb.jpg",
+              "/images/kiosks/att790.jpg",
+              "/images/kiosks/attrender.jpg"
             ]
           }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "GLOCK \"Wrong Diner\"",
-    "thumb": "/images/diner/wrongdiner.png",
-    "tags": [
-
-    ],
-    "sections": [
-      {
-        "description": "The ‘Wrong Diner’ video below was 1 of a series produced for GLOCK featuring R. Lee Ermey as the Gunny. Working with Rogin Entertainment out of California, the director and director of photography furnished a loose script, a few photos of the diner and a basic shot list via email. After a few phone calls, the storyboards below are what was presented to the production company. With few differences, the video reflects a fairly accurate portrayal of the extended cut that can be seen currently on YouTube. The video featured here is the edited version which was created for commercial broadcasts. The ‘Wrong Diner’ is among the highest of GLOCK fan favorites and went on to win multiple Communicator awards the year it debuted.",
-        "videos": [
-          "https://www.youtube.com/embed/_vDA9CIj93c"
-        ],
-        "images": [
-          {
-            "sources": [
-              "/images/diner/flow1.jpg",
-              "/images/diner/flow2.jpg",
-              "/images/diner/flow3.jpg",
-              "/images/diner/flow4.jpg",
-              "/images/diner/flow5.jpg",
-              "/images/diner/flow6.jpg",
-              "/images/diner/flow7.jpg",
-              "/images/diner/flow8.jpg",
-              "/images/diner/flow9.jpg",
-              "/images/diner/flow10.jpg",
-              "/images/diner/flow11.jpg",
-              "/images/diner/flow12.jpg",
-              "/images/diner/flow13.jpg",
-              "/images/diner/flow14.jpg"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Ad Council Award Dinner",
-    "thumb": "/images/council/adcouncil.png",
-    "tags": [
-
-    ],
-    "sections": [
-      {
-        "description": "CraterDust had the opportunity to work with Ron Montgomery & Associates (RMA) to produce graphics for the 2013 Ad Council Public Service Award Dinner held at The Waldorf Astoria Hotel in New York City.",
-        "images": [
-          {
-            "sources": [
-              "/images/council/dinner.jpg",
-              "/images/council/adcouncil.png"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Crowne Plaza Trophy",
-    "thumb": "/images/plaza/crowne-plaza.jpg",
-    "tags": [
-
-    ],
-    "sections": [
-      {
-        "description": "CraterDust worked with Ogden Design to create this one-of-a-kind custom trophy for the Champion of the annual Crowne Plaza Invitational at Colonial Pro/Am Golf Tournament. We began with thumbnail sketches that explored similar shapes found in the sport of golf. Once we nailed down the sweeping form language, we moved to orthographic views and established material finishes. A foam scale-model was then made that enabled us to check the proportions and view the trophy from multiple angles. After presenting the concept to Crowne Plaza, the model was green-lit and went to custom fabricators for production. Varying thicknesses of brushed aluminum were shaped and cut using CNC water-jets while a custom glass-blown golf ball was created by world famous Chihuly studios. Assembly and finishing were completed with a hand-made, polished maple base. The trophy was prominently displayed at various Crowne Plaza golf events leading up to the culmination of the tournament where it was awarded to the champion.",
-        "images": [
-          {
-            "sources": [
-              "/images/plaza/trophy.jpg",
-              "/images/plaza/ortho.jpg",
-              "/images/plaza/sketch.jpg"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Presbyterian Hospital System",
-    "thumb": "/images/pres/pres.png",
-    "tags": [
-
-    ],
-    "sections": [
-      {
-        "description": "Ogden Design, Hannah Interiors and CraterDust worked together to offer a fresh new approach to the interiors of Presbyterian Hospital Systems area clinics. Beginning with site surveys to several locations, photos and measurements were taken along with notes leading to a thorough understanding of the clinics’ current layouts and efficiency with regard to administering patient care. Initial plan views offered led to alternative traffic flow solutions that would increase workflow and patient treatment efficiency. With increased functionality and best use of space now solved, the focus then turned to a new lighter interior with updated colors, flooring and furniture. Presentation renderings and swatch boards of several local area hospitals were then presented to the hospital’s Board of Directors. The presentation got Presbyterian staff very excited and the hospital is currently moving forward while discussing planning and funding.",
-        "images": [
-          {
-            "sources": [
-              "/images/pres/pres.png",
-              "/images/pres/presrendering.jpg",
-              "/images/pres/presrendering2.jpg"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Chick-Fil-A Leadercast Pitch",
-    "thumb": "/images/chickfila/chickfila.jpg",
-    "tags": [
-
-    ],
-    "sections": [
-      {
-        "description": "GiANT Impact contacted CraterDust in need of a “quick sketch artist” to create renderings for a video they were producing for one of their proposed Leadercast events in Atlanta. Working with their team to provide the approach and art direction for the video, CraterDust worked at GiANT and on camera cranked out the drawings based on supplied content and reference. The video was shot and produced by Blue Carousel Productions and was well received by Chick-fil-A as a refreshing approach to otherwise typical pitch presentations.",
-        "videos": [
-          "http://player.vimeo.com/video/105762821?wmode=opaque"
         ]
       }
     ]
@@ -389,7 +332,30 @@
               "/images/mizuno/flow13.jpg"
             ]
           }
-      ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GLOCK Safety Pledge",
+    "thumb": "/images/safety/safetypledge.png",
+    "tags": [
+
+    ],
+    "sections": [
+      {
+        "description": "We had the opportunity to provide the creative for the GLOCK “Safety Pledge” landing page, social assets and posts for “National Safety Month” in June 2014. With GLOCK working in conjunction with Project Child Safe and NSSF, we supported the promotion with art direction as it engaged consumers across the United States to spread the word about gun safety.",
+        "videos": [
+          "http://www.youtube.com/embed/CC7bs3ed3-w?wmode=opaque"
+        ],
+        "images": [
+          {
+            "sources": [
+              "/images/safety/glocksafetypledge.png",
+              "/images/safety/safetypledgebadge.png"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -417,19 +383,34 @@
     ]
   },
   {
-    "name": "Concept Art/Renderings",
-    "thumb": "/images/concept/taylormade.jpg",
+    "name": "GLOCK \"Wrong Diner\"",
+    "thumb": "/images/diner/wrongdiner.png",
     "tags": [
 
     ],
     "sections": [
       {
-        "description": "Unlike many studios who depend on freelance illustrators, we handle all of our rendering and illustration needs in-house. We have supplied countless presentation renderings and design sketches to clients as well as marketing departments, design firms and architects. Whether you’re looking to have your concept visualized for your next pitch or need a robust design sketch that addresses real needs, we offer rendering capabilities in a variety of styles from analog or digital hand-sketches to fully developed CAD models. We also offer character design, storyboards and key frames for animatics and broadcasts.",
+        "description": "The ‘Wrong Diner’ video below was 1 of a series produced for GLOCK featuring R. Lee Ermey as the Gunny. Working with Rogin Entertainment out of California, the director and director of photography furnished a loose script, a few photos of the diner and a basic shot list via email. After a few phone calls, the storyboards below are what was presented to the production company. With few differences, the video reflects a fairly accurate portrayal of the extended cut that can be seen currently on YouTube. The video featured here is the edited version which was created for commercial broadcasts. The ‘Wrong Diner’ is among the highest of GLOCK fan favorites and went on to win multiple Communicator awards the year it debuted.",
+        "videos": [
+          "https://www.youtube.com/embed/_vDA9CIj93c"
+        ],
         "images": [
           {
             "sources": [
-              "/images/concept/taylormade.jpg",
-              "/images/concept/flow1.jpg"
+              "/images/diner/flow1.jpg",
+              "/images/diner/flow2.jpg",
+              "/images/diner/flow3.jpg",
+              "/images/diner/flow4.jpg",
+              "/images/diner/flow5.jpg",
+              "/images/diner/flow6.jpg",
+              "/images/diner/flow7.jpg",
+              "/images/diner/flow8.jpg",
+              "/images/diner/flow9.jpg",
+              "/images/diner/flow10.jpg",
+              "/images/diner/flow11.jpg",
+              "/images/diner/flow12.jpg",
+              "/images/diner/flow13.jpg",
+              "/images/diner/flow14.jpg"
             ]
           }
         ]
@@ -437,21 +418,20 @@
     ]
   },
   {
-    "name": "AT&T Classic Kiosks",
-    "thumb": "/images/kiosks/kiosk-thumb.jpg",
+    "name": "Crowne Plaza Trophy",
+    "thumb": "/images/plaza/crowne-plaza.jpg",
     "tags": [
 
     ],
     "sections": [
       {
-        "description": "Working with Ogden Design, CraterDust provided conceptual sketches exploring both form and functionality for kiosks AT&T would utilize at their many events. These one-off kiosks needed to speak to the progressive nature of AT&T’s emerging technologies while also being easy to set up and breakdown. One kiosk would highlight and feature new technology and another kiosk would be utilized as a DJ booth for live onsite radio broadcasts. By creating a form language that was shared by both kiosks, the two pieces each provided optimal functionality catered to its purpose while sporting a unified look and feel.",
+        "description": "CraterDust worked with Ogden Design to create this one-of-a-kind custom trophy for the Champion of the annual Crowne Plaza Invitational at Colonial Pro/Am Golf Tournament. We began with thumbnail sketches that explored similar shapes found in the sport of golf. Once we nailed down the sweeping form language, we moved to orthographic views and established material finishes. A foam scale-model was then made that enabled us to check the proportions and view the trophy from multiple angles. After presenting the concept to Crowne Plaza, the model was green-lit and went to custom fabricators for production. Varying thicknesses of brushed aluminum were shaped and cut using CNC water-jets while a custom glass-blown golf ball was created by world famous Chihuly studios. Assembly and finishing were completed with a hand-made, polished maple base. The trophy was prominently displayed at various Crowne Plaza golf events leading up to the culmination of the tournament where it was awarded to the champion.",
         "images": [
           {
             "sources": [
-              "/images/kiosks/attfullroom.jpg",
-              "/images/kiosks/kiosk-thumb.jpg",
-              "/images/kiosks/att790.jpg",
-              "/images/kiosks/attrender.jpg"
+              "/images/plaza/trophy.jpg",
+              "/images/plaza/ortho.jpg",
+              "/images/plaza/sketch.jpg"
             ]
           }
         ]
@@ -472,6 +452,31 @@
               "/images/cooper/light-v2.jpg",
               "/images/cooper/sketch-final.jpg",
               "/images/cooper/ideation-sketch.jpg"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GLOCK MOS Landing Page",
+    "thumb": "/images/mos/mos-thumbnail2.png",
+    "sections": [
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/mos/mostitle.png"
+            ]
+          }
+        ]
+      },
+      {
+        "description": "After back-to-back record breaking years for Glock, CraterDust partnered with Swarm to keep up the momentum and set the trend early in 2015 for another fantasitc year by creating a landing page to show off Glock’s all new line of pistols equipped with their Modular Optic System.  The goals were immediately clear and we knew we had to create an interesting and engaging experience for the target audience while also informing them of the features and advantages of this new line of pistols. Naturally, we also wanted to highlight Glock’s heritage of engineering perfection, but also propel this new launch from mundane to modern.",
+        "images": [
+          {
+            "sources": [
+              "/images/mos/mos-ipad.png"
             ]
           }
         ]
