@@ -1,5 +1,30 @@
 [
   {
+    "name": "GLOCK MOS Landing Page",
+    "thumb": "/images/mos/mos-thumbnail2.png",
+    "sections": [
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/mos/mostitle.png"
+            ]
+          }
+        ]
+      },
+      {
+        "description": "After back-to-back record breaking years for Glock, CraterDust partnered with Swarm to keep up the momentum and set the trend early in 2015 for another fantasitc year by creating a landing page to show off Glock’s all new line of pistols equipped with their Modular Optic System.  The goals were immediately clear and we knew we had to create an interesting and engaging experience for the target audience while also informing them of the features and advantages of this new line of pistols. Naturally, we also wanted to highlight Glock’s heritage of engineering perfection, but also propel this new launch from mundane to modern.",
+        "images": [
+          {
+            "sources": [
+              "/images/mos/mos-ipad.png"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Scenario X",
     "thumb": "/images/scenx/jungle-thumb.jpg",
     "tags": [],
@@ -81,7 +106,7 @@
       },
       {
         "title": "Print",
-        "description": "As GLOCK has a long-standing relationship with most US gun enthusiast magazines and publications, it was no exception that 2014 would see many print ads run in a variety of sizes and formats.  CraterDust worked with GLOCK and its partners to frame up the 2014 quarterly ad cycles and placements.  We then proposed which key ads would make the biggest impact for each quarter based on the consumer outreach.  CraterDust oversees and produces all aspects of the ads from initial sketch and copy to photo-shoot art direction and production of final art.",
+        "description": "As GLOCK has a long-standing relationship with most US gun enthusiast magazines and publications, it was no exception that 2014 would see many print ads run in a variety of sizes and formats.  CraterDust worked with GLOCK and its partners to frame up the 2014 quarterly ad cycles and placements.  We then proposed which key ads would make the biggest impact for each quarter based on the consumer outreach.",
         "images": [
           {
             "sources": [
@@ -452,31 +477,6 @@
               "/images/cooper/light-v2.jpg",
               "/images/cooper/sketch-final.jpg",
               "/images/cooper/ideation-sketch.jpg"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "GLOCK MOS Landing Page",
-    "thumb": "/images/mos/mos-thumbnail2.png",
-    "sections": [
-      {
-        "images": [
-          {
-            "sources": [
-              "/images/mos/mostitle.png"
-            ]
-          }
-        ]
-      },
-      {
-        "description": "After back-to-back record breaking years for Glock, CraterDust partnered with Swarm to keep up the momentum and set the trend early in 2015 for another fantasitc year by creating a landing page to show off Glock’s all new line of pistols equipped with their Modular Optic System.  The goals were immediately clear and we knew we had to create an interesting and engaging experience for the target audience while also informing them of the features and advantages of this new line of pistols. Naturally, we also wanted to highlight Glock’s heritage of engineering perfection, but also propel this new launch from mundane to modern.",
-        "images": [
-          {
-            "sources": [
-              "/images/mos/mos-ipad.png"
             ]
           }
         ]
