@@ -372,7 +372,7 @@ module.exports = function (grunt) {
       },
       cdust: {
         options: {
-          remote: 'cdust@craterdust.com:git/craterdust.git',
+          remote: 'cdust@192.185.4.32:git/craterdust.git',
           branch: 'master'
         }
       }
