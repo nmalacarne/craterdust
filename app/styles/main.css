@@ -83,3 +83,13 @@ a .active {
 #fancybox-lock:hover {
   cursor: zoom-out;
 }
+
+.content.ng-enter {
+  -webkit-animation:fadeIn 0.5s both ease-in;
+  -moz-animation:fadeIn 0.5s both ease-in;
+  animation:fadeIn 0.5s both ease-in;
+}
+
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
