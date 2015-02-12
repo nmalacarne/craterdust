@@ -248,27 +248,6 @@
     ]
   },
   {
-    "name": "Presbyterian Hospital System",
-    "thumb": "/images/pres/pres.png",
-    "tags": [
-
-    ],
-    "sections": [
-      {
-        "description": "Ogden Design, Hannah Interiors and CraterDust worked together to offer a fresh new approach to the interiors of Presbyterian Hospital Systems area clinics. Beginning with site surveys to several locations, photos and measurements were taken along with notes leading to a thorough understanding of the clinics’ current layouts and efficiency with regard to administering patient care. Initial plan views offered led to alternative traffic flow solutions that would increase workflow and patient treatment efficiency. With increased functionality and best use of space now solved, the focus then turned to a new lighter interior with updated colors, flooring and furniture. Presentation renderings and swatch boards of several local area hospitals were then presented to the hospital’s Board of Directors. The presentation got Presbyterian staff very excited and the hospital is currently moving forward while discussing planning and funding.",
-        "images": [
-          {
-            "sources": [
-              "/images/pres/pres.png",
-              "/images/pres/presrendering.jpg",
-              "/images/pres/presrendering2.jpg"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "GLOCK Lobby Glass Installation",
     "thumb": "/images/lobby/glocklobbyglass.png",
     "tags": [
@@ -307,54 +286,6 @@
               "/images/kiosks/kiosk-thumb.jpg",
               "/images/kiosks/att790.jpg",
               "/images/kiosks/attrender.jpg"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Mizuno “A Brillant Run”",
-    "thumb": "/images/mizuno/brilliantrun.png",
-    "tags": [
-
-    ],
-    "sections": [
-      {
-        "title": "Mizuno “Observe”",
-        "description": "This video was 1 of 2 web videos produced for Mizuno for the launch of their new WaveRider 15 shoe. The campaign revolved around the hypothetical idea – If Einstein Ran. The first video as seen below showed Einstein making his observations.",
-        "videos": [
-          "https://www.youtube.com/embed/n3HYRCi8Fgw"
-        ],
-        "images": [
-          {
-            "sources": [
-              "/images/mizuno/flow1.jpg",
-              "/images/mizuno/flow2.jpg",
-              "/images/mizuno/flow3.jpg",
-              "/images/mizuno/flow4.jpg",
-              "/images/mizuno/flow5.jpg",
-              "/images/mizuno/flow6.jpg"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Mizuno “Engineer”",
-        "description": "This spot picks up where the first one left off. Einstein is back in his lab putting it all together and then he has his eureka moment.",
-        "videos": [
-          "https://www.youtube.com/embed/yBlMDdpX3yk"
-        ],
-        "images": [
-          {
-            "sources": [
-              "/images/mizuno/flow7.jpg",
-              "/images/mizuno/flow8.jpg",
-              "/images/mizuno/flow9.jpg",
-              "/images/mizuno/flow10.jpg",
-              "/images/mizuno/flow11.jpg",
-              "/images/mizuno/flow12.jpg",
-              "/images/mizuno/flow13.jpg"
             ]
           }
         ]
