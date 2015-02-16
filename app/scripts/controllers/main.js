@@ -8,8 +8,6 @@
  * Controller of the craterdustApp
  */
 angular.module('craterdustApp')
-  .controller('MainCtrl', function ($routeParams, $location, $anchorScroll) {
-    $location.hash($routeParams.scrollId);
-
-    $anchorScroll();
+  .controller('MainCtrl', function ($scope) {
+    $scope.scrollToTarget();
   });
