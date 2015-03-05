@@ -20,7 +20,11 @@
               "/images/mos/mos-ipad.png"
             ]
           }
-        ]
+        ],
+        "link": {
+          "title": "Click here to view the MOS page in action.",
+          "url": "http://www.glock.us/mos"
+        }
       }
     ]
   },
