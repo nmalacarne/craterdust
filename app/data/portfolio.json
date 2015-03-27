@@ -1,5 +1,34 @@
 [
   {
+    "name": "GLOCK G43 Landing Page",
+    "thumb": "/images/g43/thumbnail.jpg",
+    "sections": [
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/g43/g43-title.png"
+            ]
+          }
+        ]
+      },
+      {
+        "description": "In February of 2015, following the release of the MOS line of pistols GLOCK began preparing for their second major product launch of the year. Once again, CraterDust was called upon to design a fully responsive website for the long-awaited and highly anticipated GLOCK 43. The website was to stand at the center of the launch as an engaging experience that allowed users to learn more about the pistol while tying into to the campaign message of “Confidence fits every lifestyle.”",
+        "images": [
+          {
+            "sources": [
+              "/images/g43/g43-ipad.png"
+            ]
+          }
+        ],
+        "link": {
+          "title": "Click here to view the G43 page in action.",
+          "url": "http://www.glock.us/g43"
+        }
+      }
+    ]
+  },
+  {
     "name": "GLOCK MOS Landing Page",
     "thumb": "/images/mos/mos-thumbnail2.png",
     "sections": [
