@@ -541,20 +541,3 @@ FileETag None
 # <IfModule mod_headers.c>
 #    Header set Connection Keep-Alive
 # </IfModule>
-
-# ------------------------------------------------------------------------------
-# | SEO                                                                        |
-# ------------------------------------------------------------------------------
-
-### If not already activated, activates the RewriteEngine module
-RewriteEngine On
-
-### If using a .htaccess file, uncomment the following line
-Options +FollowSymLinks
-
-### If the Host header is not correctly set
-RequestHeader set Host "api.seo4ajax.com"
-
-### If a bot requests an escaped URL then proxify the request to SEO4Ajax
-RewriteCond %{QUERY_STRING}  _escaped_fragment_=  [NC]
-RewriteRule ^(.*)$ http://api.seo4ajax.com/703a895ca1a4ccee0f462f26e3e6d13b/$1 [P,QSA,L]
