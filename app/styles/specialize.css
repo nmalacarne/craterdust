@@ -1,6 +1,15 @@
 /*specialize section*/
+.specialize {
+  background: url('../images/mission-bg.jpg') no-repeat;
+  background-size: cover;
+}
+
 .specialize * {
   display: block;
+}
+
+.specialize-card {
+  background-color: #fff;
 }
 
 .specialize .border {
@@ -27,4 +36,8 @@
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
   font-weight: 300;
+}
+
+.specialize span:last-of-type {
+  padding-bottom: 15px;
 }
