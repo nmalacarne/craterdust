@@ -27,7 +27,7 @@ angular
       .when('/', {
         templateUrl: 'views/main.html'
       })
-      .when('/item/:id', {
+      .when('/portfolio/item/:id', {
         templateUrl: 'views/item.html',
         controller: 'ItemCtrl'
       })

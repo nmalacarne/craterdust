@@ -1,5 +1,71 @@
 [
   {
+    "name": "The Brewhouse Gallery",
+    "thumb": "/images/brewhouse/bhthumb.jpg",
+    "sections": [
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/brewhouse/BH1YR_Banner.jpg"
+            ],
+            "style": "col-xs-12"
+          }
+        ]
+      },
+      {
+        "description": "CraterDust was commissioned by AJ Brockman, Cofounder and Gallery Curator of The Brewhouse Gallery in South Florida to create a limited edition poster to commemorate their 1 year anniversary and grand opening of expansion. We gladly accepted. The Brewhouse asked that we create a hand-lettered poster driven by captivating typography that embodies their philosophy and visual style while promoting this momentous event. We were able to custom illustrate and letter the design by hand and convert it digitally to be versioned as a limited edition print and a full page magazine advertisement as well as assets for web and social. For more on AJ Brockman and ",
+        "link": {
+          "title": "The Brewhouse Gallery.",
+          "url": "www.brewhousegallery.com"
+        },
+        "images": [
+          {
+            "sources": [
+              "/images/brewhouse/brewhouse_mockup.jpg"
+            ]
+          },
+          {
+            "sources": [
+              "/images/brewhouse/BH1YR_1000x1000.jpg"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Scarlett Mistress",
+    "thumb": "/images/scarlet/smthumb.jpg",
+    "sections": [
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/scarlet/SM_Poster1.jpg"
+            ],
+            "style": "col-xs-6 col-xs-offset-3"
+          }
+        ]
+      },
+      {
+        "description": "Scarlett Mistress, an Atlanta rock and roll band approached us in late 2014 to define a look for the band that allowed them to stand out in a vibrant music city. As a result, we were tasked with creating two, fully illustrated, concert posters that would feature a character that would embody the band’s gritty sound and more literally speak to the name Scarlett Mistress.  Shrouded in mystery, the story of the mistress continues to unfold with each poster; enticing fans and luring in the unsuspecting, visit ",
+        "images": [
+          {
+            "sources": [
+              "/images/scarlet/SM_Basement_Final.jpg"
+            ],
+            "style": "col-xs-6 col-xs-offset-3"
+          }
+        ],
+        "link": {
+          "title": "www.scarlettmistress.com.",
+          "url": "http://www.scarlettmistress.com/"
+        }
+      }
+    ]
+  },
+  {
     "name": "GLOCK NRA 2015 T-Shirt",
     "thumb": "/images/nraam/GLKNRAAMShirt2015thumb.jpg",
     "sections": [
@@ -8,7 +74,8 @@
           {
             "sources": [
               "/images/nraam/GLKNRAAMShirt2015.png"
-            ]
+            ],
+            "style": "col-xs-6 col-xs-offset-3"
           }
         ]
       },
@@ -18,7 +85,8 @@
           {
             "sources": [
               "/images/nraam/GLKNRAAMShirt2015mock.jpg"
-            ]
+            ],
+            "style": "col-xs-6 col-xs-offset-3"
           }
         ]
       }
@@ -322,28 +390,6 @@
             "sources": [
               "/images/lobby/lobbyPanelA.png",
               "/images/lobby/lobbyPanelB.png"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "AT&T Classic Kiosks",
-    "thumb": "/images/kiosks/kiosk-thumb.jpg",
-    "tags": [
-
-    ],
-    "sections": [
-      {
-        "description": "Working with Ogden Design, CraterDust provided conceptual sketches exploring both form and functionality for kiosks AT&T would utilize at their many events. These one-off kiosks needed to speak to the progressive nature of AT&T’s emerging technologies while also being easy to set up and breakdown. One kiosk would highlight and feature new technology and another kiosk would be utilized as a DJ booth for live onsite radio broadcasts. By creating a form language that was shared by both kiosks, the two pieces each provided optimal functionality catered to its purpose while sporting a unified look and feel.",
-        "images": [
-          {
-            "sources": [
-              "/images/kiosks/attfullroom.jpg",
-              "/images/kiosks/kiosk-thumb.jpg",
-              "/images/kiosks/att790.jpg",
-              "/images/kiosks/attrender.jpg"
             ]
           }
         ]
