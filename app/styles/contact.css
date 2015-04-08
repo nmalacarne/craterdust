@@ -4,12 +4,14 @@
   color: #fff;
 }
 
-.contact section {
-  margin-bottom: 50px;
-}
-
 .contact section * {
   display: block;
+}
+
+@media(max-width:991px) {
+  .contact section:first-of-type {
+    margin-bottom: -50px;
+  }
 }
 
 .contact header {
