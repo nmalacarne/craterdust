@@ -7,9 +7,8 @@
         "images": [
           {
             "sources": [
-              "/images/brewhouse/BH1YR_Banner.jpg"
-            ],
-            "style": "col-xs-12"
+              "/images/brewhouse/brewhouse_mockup.jpg"
+            ]
           }
         ]
       },
@@ -22,12 +21,12 @@
         "images": [
           {
             "sources": [
-              "/images/brewhouse/BH1YR_1000x1000.jpg"
+              "/images/brewhouse/BH1YR_Banner.jpg"
             ]
           },
           {
             "sources": [
-              "/images/brewhouse/brewhouse_mockup.jpg"
+              "/images/brewhouse/BH1YR_1000x1000.jpg"
             ]
           }
         ]
