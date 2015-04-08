@@ -41,8 +41,14 @@
   font-size: 12px;
 }
 
-@media(min-width:767px) {
+@media(max-width:991px) {
     .portfolio .portfolio-item {
-        margin: 0 0 30px;
+        margin-bottom: -50px;
+    }
+}
+
+@media(max-width:767px) {
+    .portfolio .portfolio-item {
+        margin-bottom: 50px;
     }
 }
