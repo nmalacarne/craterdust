@@ -35,6 +35,8 @@ angular
         redirectTo: '/'
       });
   })
+  .value('duScrollDuration', 1250)
+  .value('duScrollEasing', function (t) { return t<.5 ? 4*t*t*t : (t-1)*(2*t-2)*(2*t-2)+1; }) // https://gist.github.com/gre/1650294
   .run(function($rootScope, $sce, $routeParams, $document, $timeout, Portfolio) {
     $rootScope.getTrustedSource = function(src) {
       return $sce.trustAsResourceUrl(src);
@@ -44,7 +46,7 @@ angular
       if ($routeParams.hasOwnProperty('target')) {
         $timeout(function() {
           var ele = angular.element(document.getElementById($routeParams.target));
-          $document.duScrollToElement(ele, 50, 500);
+          $document.duScrollToElement(ele, 50);
         }, 100);
       }
     };
