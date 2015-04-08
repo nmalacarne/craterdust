@@ -1,5 +1,30 @@
 [
   {
+    "name": "GLOCK NRA 2015 T-Shirt",
+    "thumb": "/images/nraam/GLKNRAAMShirt2015thumb.jpg",
+    "sections": [
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/nraam/GLKNRAAMShirt2015.png"
+            ]
+          }
+        ]
+      },
+      {
+        "description": "The CraterDust team was called on to design a t-shirt for GLOCK that would be exclusive to the NRA Annual Meeting 2015, one of the largest consumer firearm conventions in the world. The NRA 2015 event is especially a big deal for GLOCK as they just released their “unicorn” single stack 9mm pistol, the GLOCK 43. With the event being held at Music City in Nashville, Tennessee, our concept was formulated to reflect that of a vintage concert poster while embodying the hugely anticipated debut of the GLOCK 43.",
+        "images": [
+          {
+            "sources": [
+              "/images/nraam/GLKNRAAMShirt2015mock.jpg"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "GLOCK G43 Landing Page",
     "thumb": "/images/g43/thumbnail.jpg",
     "sections": [
