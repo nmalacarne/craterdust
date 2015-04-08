@@ -15,12 +15,12 @@
 }
 
 .portfolio img {
-    filter: none; /* IE6-9 */
-    -webkit-filter: grayscale(0%); /* Chrome 19+ & Safari 6+ */
-    -webkit-transition: all .6s ease; /* Fade to color for Chrome and Safari */
-    -moz-transition: all .6s ease;
-    -o-transition: all .6s ease;
-    -webkit-backface-visibility: hidden; /* Fix for transition flickering */
+  filter: none; /* IE6-9 */
+  -webkit-filter: grayscale(0%); /* Chrome 19+ & Safari 6+ */
+  -webkit-transition: all .6s ease; /* Fade to color for Chrome and Safari */
+  -moz-transition: all .6s ease;
+  -o-transition: all .6s ease;
+  -webkit-backface-visibility: hidden; /* Fix for transition flickering */
   padding-bottom: 10px;
 }
 
