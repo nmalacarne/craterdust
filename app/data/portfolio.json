@@ -1,5 +1,41 @@
 [
   {
+    "name": "Earhart Station",
+    "thumb": "/images/earhart/thumbnail.jpg",
+    "sections": [
+      {
+        "images": [
+          {
+            "sources": [
+              "/images/earhart/rr-logo.png"
+            ],
+            "style": "col-sm-10 col-sm-offset-1"
+          }
+        ]
+      },
+      {
+        "description": "For over 50 years Earhart Station has been integral to the NASCAR experience at Bristol Motor Speedway. Over the years they have grown to become a full-service facility, hosting many local events and offering a myriad of activities including daily parking and tailgating sites, camping opportunities, retail vending, corporate marketing and sponsor-hosted hospitality sites. In addition to these things Earhart Station also produces a full-scale, free concert series entitled Rockin’ Racin’ presented by Miller Lite.",
+        "images": [
+          {
+            "sources": [
+              "/images/earhart/earhart-banners.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "description": "We were excited when Earhart Station approached us in early 2015 to begin creating a new logo for Rockin’ and Racin’ as well as new stage banners and schedule banners for the events. These banners had the potential to be seen by thousands of people in person so our goal from the beginning was to capture the spirit of stock-car racing and the essence of the Earhart Campground experience without stealing the attention from the live music and events. ",
+        "images": [
+          {
+            "sources": [
+              "/images/earhart/stage.png"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "The Brewhouse Gallery",
     "thumb": "/images/brewhouse/bhthumb.jpg",
     "sections": [
