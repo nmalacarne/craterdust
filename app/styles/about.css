@@ -2,6 +2,8 @@
 .about {
   background: url('../images/cd-lobby.png') no-repeat;
   background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .about p {

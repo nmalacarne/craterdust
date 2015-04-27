@@ -1,20 +1,26 @@
 /*clients section*/
 .clients {
   background-color: #000;
-  padding-top: 50px;
-  padding-bottom: 5px;
   color: #fff;
 }
 
 .clients header {
   font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 48px;
-  font-weight: 100;
-  padding-bottom: 50px;
+  font-weight: normal;
+  padding-bottom: 10px;
 }
 
 .clients img {
-  padding-bottom: 50px;
-  height: 150px;
-  width: 150px;
+  padding-bottom: 10px;
+  width: 40%;
+  height: 40%;
+}
+
+@media(max-width:991px) {
+  .clients img {
+    padding-bottom: 10px;
+    width: 20%;
+    height: 20%;
+  }
 }
