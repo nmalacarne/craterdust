@@ -1,0 +1,25 @@
+.slider {
+  padding-top: 100px;
+  padding-bottom: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.slick-slider {
+  margin-bottom: 0;
+}
+
+.slider .slide {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.slider #slide-1 {
+  background: url(http://placehold.it/1920x300&text=Slide+1) no-repeat;
+  background-size: cover;
+}
+
+.slider #slide-2 {
+  background: url(http://placehold.it/1920x300&text=Slide+2) no-repeat;
+  background-size: cover;
+}

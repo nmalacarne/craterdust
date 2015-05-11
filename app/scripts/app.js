@@ -16,7 +16,8 @@ angular
     'ngRoute',
     'ngSanitize',
     'ngTouch',
-    'duScroll'
+    'duScroll',
+    'slick'
   ])
   .config(function ($routeProvider, $locationProvider) {
 
@@ -54,3 +55,4 @@ angular
     // load portfolio data
     Portfolio.load();
   });
+
