@@ -1,5 +1,17 @@
 [
   {
+    "name": "GLOCK \"The Test of Perfection\"",
+    "thumb": "/images/heritage/thumb.jpg",
+    "sections": [
+      {
+        "description": "In early 2015 CraterDust worked along side Utah-based production company The Brute Squad to conceptualize and produce a video that would kick off the GLOCK, Inc. party at SHOT Show 2015.  The video aimed to define the meaning of GLOCK Perfection by highlighting the heritage of excellence in engineering achieved and maintained by GLOCK from it’s inception. This short piece took viewers on a journey showcasing a superbly reliable firearm to reinforce the standards by which each and every GLOCK pistol can be held to.",
+        "videos": [
+          "http://player.vimeo.com/video/123116194?wmode=opaque"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Earhart Station",
     "thumb": "/images/earhart/thumbnail.jpg",
     "sections": [
