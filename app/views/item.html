@@ -58,8 +58,7 @@
             <div ng-repeat="section in item.sections">
               <h3 align="left">{{section.title}}</h3>
 
-              <p align="left">
-                {{section.description}}
+              <p align="left" ng-bind-html="section.description">
                 <a href="{{section.link.url}}" target="_blank">{{section.link.title}}</a>
               </p>
 

@@ -1,14 +1,17 @@
 /*about section*/
 .about {
-  background: url('../images/cd-lobby.png') no-repeat;
-  background-size: cover;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.about header {
+  color: #4c4c4c;
+  font-size: 32px;
+  font-weight: 100;
 }
 
 .about p {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #FFF;
   display: inline-block;
   vertical-align: middle;
   float: none;
