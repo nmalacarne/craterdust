@@ -13,10 +13,6 @@ section {
   }
 }
 
-p {
-  text-indent: 25px;
-}
-
 .bar {
   margin: 25px auto 30px;
   padding: 0;
