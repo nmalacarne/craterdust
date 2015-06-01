@@ -71,4 +71,17 @@
   .slider {
     padding-top: 50px;
   }
+
+  .slider .title {
+    font-size: 16px;
+  }
+
+  .slider .tag-line {
+    font-size: 16px;
+    margin-top: -5px;
+  }
+
+  .slider .call-to-action {
+    font-size: 12px;
+  }
 }
