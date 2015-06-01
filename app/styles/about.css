@@ -1,7 +1,6 @@
 /*about section*/
 .about {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding: 15px;
 }
 
 .about header {
@@ -17,6 +16,7 @@
   float: none;
   font-size: 16px;
   text-indent: 0;
+  padding: 15px;
 }
 
 .about span {
